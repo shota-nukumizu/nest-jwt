@@ -50,6 +50,10 @@ npx nest g module users
 npx nest g service users
 ```
 
+# demo画像
+
+![](screenshot.png)
+
 手順は公式docsの通りに実行。正直作成者自身わかっていない部分が数多くある...。
 
 # 参考サイト
